@@ -1,4 +1,5 @@
-:smile:
+![Flora](http://i.imgur.com/uEBy2o5.png)
+
 # Slack Small Emoji
 A Chrome extension to make jumbo Slack emojis small again.
 
