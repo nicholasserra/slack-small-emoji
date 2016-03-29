@@ -1,0 +1,20 @@
+{
+  "name": "Slack Small Emoji",
+  "version": "0.0.2",
+  "manifest_version": 2,
+  "description": "Make Slack emojis small again.",
+  "homepage_url": "https://github.com/nicholasserra/slack-small-emoji",
+  "permissions": [
+    "https://*.slack.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.slack.com/*"
+      ],
+      "css": [
+        "src/inject/emoji.css"
+      ]
+    }
+  ]
+}

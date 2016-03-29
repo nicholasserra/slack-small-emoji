@@ -1,0 +1,11 @@
+.feature_jumbomoji.light_theme #msg_preview.only_emoji #msg_preview_msg span.emoji-sizer,
+.feature_jumbomoji.light_theme #msg_preview.only_emoji .comment_body span.emoji-sizer,
+.feature_jumbomoji.light_theme #msg_preview.only_emoji .message_body span.emoji-sizer,
+.feature_jumbomoji.light_theme #msg_preview.only_emoji .message_content .comment span.emoji-sizer,
+.feature_jumbomoji.light_theme .only_emoji #msg_preview_msg span.emoji-sizer,
+.feature_jumbomoji.light_theme .only_emoji .comment_body span.emoji-sizer,
+.feature_jumbomoji.light_theme .only_emoji .message_body span.emoji-sizer,
+.feature_jumbomoji.light_theme .only_emoji .message_content .comment span.emoji-sizer {
+  line-height: 1.4pc !important;
+  font-size: 1.4pc !important;
+}
